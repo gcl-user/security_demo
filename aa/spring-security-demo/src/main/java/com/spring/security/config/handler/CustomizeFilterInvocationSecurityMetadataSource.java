@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * @Author: Hutengfei
  * @Description:
- * @Date Create in 2019/9/3 21:06
+ * @Date Create in 2019/9/3 21:06   自定义过滤器调用安全性元数据源    筛选器调用安全性元数据源
  */
 @Component
 public class CustomizeFilterInvocationSecurityMetadataSource implements FilterInvocationSecurityMetadataSource {

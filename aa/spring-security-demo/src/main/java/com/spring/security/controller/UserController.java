@@ -29,4 +29,9 @@ public class UserController {
     public JsonResult test() {
         return ResultTool.success("hello world");
     }
+
+    @GetMapping("/wordexport")
+    public JsonResult wordexport() {
+        return ResultTool.success("hello world");
+    }
 }
